@@ -1,4 +1,4 @@
-# Anycubic-Mega-mods
+# Anycubic Mega S mods
 
 This is a collection of mods of the Anycubic Mega S 3D printer. Feel free to experiment with them!
 
