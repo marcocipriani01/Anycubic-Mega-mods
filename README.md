@@ -9,11 +9,13 @@ This collection contains 3D models and configuration files made by different peo
 ### Credits
 
 - [Anycubic i3 Mega X carriage and Hemera mod](https://www.thingiverse.com/thing:4238185) by Sergiu-I
-- [BLTouch support](https://www.thingiverse.com/thing:4167435) by OmNomNomagon
 - ["Filler" filament spool holder](https://www.thingiverse.com/thing:3020026) by HugoHuge
 - [BLShield](https://www.thingiverse.com/thing:3419174) by PrinterMods
 - [Klipper configuration](https://github.com/widapro/3d-printers) by widapro
 - [Customizable fan cover](https://www.thingiverse.com/thing:2802474) by mightynozzle
+- [Anycubic I3 Mega feet](https://www.thingiverse.com/thing:3480829/files) by Alexis Rodriguez
+- [Anycubic I3 Mega Hot Bed Handle](https://www.thingiverse.com/thing:3217199/files) by Andy Baxter
+- [AnyCubic i3 Mega LCD Bezel](https://www.thingiverse.com/thing:2920401/files) by Rui Carneiro
 
 ## Other resources
 
